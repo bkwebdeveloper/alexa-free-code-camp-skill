@@ -10,7 +10,7 @@ Alexa, ask Free Code Camo what the most recent videos are
 
 # Really Simple interaction example
 
-User: Alexam open Free Code Camp
+User: Alexa, open Free Code Camp
 Alexa: Hello, welcome to the Free Code Camp sill. I can tell you about recent medium articles or secheduled live streams.
 
 User: what's been posted on medium?
